@@ -1,5 +1,7 @@
 # ✦ Tasky — Modern To-Do Task Manager
- INtern ID: CITS1125
+
+> Internship Project | Intern ID: **CITS1125**
+ 
 A sleek, dark-themed task manager built with vanilla HTML, CSS & JavaScript.
 
 ## Features
