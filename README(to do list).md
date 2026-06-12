@@ -1,5 +1,5 @@
 # ✦ Tasky — Modern To-Do Task Manager
-
+ INtern ID: CITS1125
 A sleek, dark-themed task manager built with vanilla HTML, CSS & JavaScript.
 
 ## Features
@@ -35,7 +35,7 @@ xdg-open index.html   # Linux
 todo-manager/
 ├── index.html
 ├── style.css
-├── app.js
+├── script.js
 └── README.md
 ```
 
