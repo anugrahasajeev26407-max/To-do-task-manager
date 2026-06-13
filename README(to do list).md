@@ -40,6 +40,3 @@ todo-manager/
 ├── script.js
 └── README.md
 ```
-
-## Live Demo
-> Deploy via GitHub Pages — see below for steps.
